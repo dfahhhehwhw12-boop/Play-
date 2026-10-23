@@ -42,7 +42,7 @@
 
     <string name="game_unavailable">Game is unavailable.\nWould you like to remove it from the list?</string>
     <string name="not_found">Not Found</string>
-    <string name="no_game_found_adapter">No game found.\n\nPlease open the menu and select \'Add Folder\' to add games.</string>
+    <string name="no_game_found_adapter">No game found.\n\nPlease open the menu and select 'Add Folder' to add games.</string>
 
     <!-- Application Preferences -->
 
@@ -113,7 +113,7 @@
 
     <string-array name="pref_emu_video_presentation_mode_entries">
         <item>Fill Screen</item>
-        <item>Fit Screen(Default)</item>
+        <item>Fit Screen (Default)</item>
         <item>Original Size</item>
     </string-array>
 
@@ -142,7 +142,7 @@
     <string name="dismiss">Dismiss</string>
     <string name="report">Report</string>
     <string name="platform">Copying logcat content to clipboard\nPlease paste in the issue report</string>
-    <string name="log_saved">Log saved to \"Files Dir\" path</string>
+    <string name="log_saved">Log saved to &quot;Files Dir&quot; path</string>
     <string name="no_recent_adapter">No recently played PS2 game found.</string>
 
     <!-- Editor Menu -->
